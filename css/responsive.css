@@ -78,6 +78,9 @@ textarea.form-control {
 @media (min-width: 768px) and (max-width: 991px) {
   
   
+  .mean-container .mean-nav {
+    background: #323232;
+}
   .slider-top-img {
     text-align: center;
     margin-top: 52px;
@@ -93,6 +96,9 @@ textarea.form-control {
   height: 205px;
   margin: 27px 6px -17px;
   margin-top: -5%;
+}
+.row.theme-bg {
+  height: auto;
 }
 .testimonial-left-img {
   transform: translateY(10px);
