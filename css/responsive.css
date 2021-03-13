@@ -80,6 +80,13 @@ textarea.form-control {
   
   .mean-container .mean-nav {
     background: #323232;
+    text-align: center;
+}
+.logo img {
+  padding: 22px 18px;
+}
+.mean-container .mean-nav ul li a {
+  text-align: center;
 }
   .slider-top-img {
     text-align: center;
